@@ -1,3 +1,4 @@
-# Dao Huy Cu/ Stata user
+# Dao Huy Cu/ Một số ví dụ về việc sử dụng Stata với Jupyter notebook
 
-## Một số function và tips về Stata
+Hướng dẫn cài đặt Stata kernel để dùng với Jupyter notebook: https://kylebarron.dev/stata_kernel/
+
